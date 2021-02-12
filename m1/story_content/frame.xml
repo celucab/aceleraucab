@@ -1212,19 +1212,24 @@
         <file bold="false" italic="false" />
       </files>
     </font>
+    <font name="Arial">
+      <files>
+        <file bold="false" italic="false" />
+      </files>
+    </font>
   </fonts>
   <sounds enabled="true" />
   <nav_data>
     <outline>
       <links>
-        <slidelink slideid="_player.6ng2xZVodgV.6djwH4qrKyI" displaytext="Bienvenida" expand="true" type="slide">
+        <slidelink slideid="_player.6ng2xZVodgV.6djwH4qrKyI" displaytext="Bienvenida" expand="false" type="slide">
           <links>
             <slidelink slideid="_player.6ng2xZVodgV.5aNGUnotmDM" displaytext="Botones de navegación" expand="false" type="slide" />
             <slidelink slideid="_player.6ng2xZVodgV.6FGWoAXn2Kg" displaytext="Objetivo" expand="false" type="slide" />
             <slidelink slideid="_player.6ng2xZVodgV.5nw4EeG9Y5G" displaytext="Introducción" expand="false" type="slide" />
           </links>
         </slidelink>
-        <slidelink slideid="_player.6XyF8uypmKg.6qeGH6dzBwA" displaytext="Auto descubrimiento del emprendedor" expand="true" type="slide">
+        <slidelink slideid="_player.6XyF8uypmKg.6qeGH6dzBwA" displaytext="Auto descubrimiento del emprendedor" expand="false" type="slide">
           <links>
             <slidelink slideid="_player.6XyF8uypmKg.5u3qxJAIPJz" displaytext="Construyendo propósitos desde la búsqueda" expand="false" type="slide" />
             <slidelink slideid="_player.6XyF8uypmKg.6pcMYPE9P2O" displaytext="Filosofía, acciones y técnicas para identificar el propósito de vida" expand="false" type="slide" />
@@ -1232,7 +1237,7 @@
         </slidelink>
         <slidelink slideid="_player.6XyF8uypmKg.6XYV0z24g0Q" displaytext="El entorno y sus posibilidades" expand="false" type="slide" />
         <slidelink slideid="_player.6XyF8uypmKg.6FnfTGy8DXR" displaytext="Accionando las ideas" expand="false" type="slide" />
-        <slidelink slideid="_player.6LTsMllXQf5.5wOKk9mmXfF" displaytext="Actividades" expand="true" type="slide">
+        <slidelink slideid="_player.6LTsMllXQf5.5wOKk9mmXfF" displaytext="Actividades" expand="false" type="slide">
           <links>
             <slidelink slideid="_player.6LTsMllXQf5.5bCJSrriN6W" displaytext="Actividad 1" expand="false" type="slide" />
             <slidelink slideid="_player.6LTsMllXQf5.5mZkYnIV0ST" displaytext="Actividad 2" expand="false" type="slide" />
@@ -1251,5 +1256,11 @@
   </nav_data>
   <resource_data description="" />
   <transcript_data />
-  <glossary_data />
+  <glossary_data>
+    <terms>
+      <term title="Mapa empatía">es una herramienta gráfica desarrollada por la consultora XPLANE utilizada para identificar mejor a nuestro público meta.</term>
+      <term title="MTP Canvas">es un lienzo, creada por Francisco Palao, para ayudar a las personas a descubrir y describir su propósito, siguiendo nueve pasos, cada uno de los cuales se basa en una técnica que nos hará descubrir algo sobre nosotros mismos y que, finalmente, culmina en el Propósito Transformador Masivo.</term>
+      <term title="Propósito de vida">declaración personal que cuando se cumple nos lleva a estado de máximo bienestar.</term>
+    </terms>
+  </glossary_data>
 </bwFrame>
