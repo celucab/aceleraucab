@@ -1,0 +1,159 @@
+<?xml version="1.0" encoding="utf-8"?>
+<tincan xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://projecttincan.com/tincan.xsd">
+	<activities>
+		<activity id="http://6AKu2Fek6Wx_course_id" type="http://adlnet.gov/expapi/activities/course">
+			<name lang="und">Mercadeo</name>
+			<description lang="und" />
+			<launch lang="und">index_lms.html</launch>
+		</activity>
+		<activity id="http://6AKu2Fek6Wx_course_id/6djwH4qrKyI" type="http://adlnet.gov/expapi/activities/module">
+			<name lang="und">Bienvenida</name>
+			<description lang="und">Bienvenida</description>
+		</activity>
+		<activity id="http://6AKu2Fek6Wx_course_id/6pyCpISXdFY" type="http://adlnet.gov/expapi/activities/module">
+			<name lang="und">Botones de navegación </name>
+			<description lang="und">Botones de navegación </description>
+		</activity>
+		<activity id="http://6AKu2Fek6Wx_course_id/6FGWoAXn2Kg" type="http://adlnet.gov/expapi/activities/module">
+			<name lang="und">Objetivo</name>
+			<description lang="und">Objetivo</description>
+		</activity>
+		<activity id="http://6AKu2Fek6Wx_course_id/5kTYA6ulbiM" type="http://adlnet.gov/expapi/activities/module">
+			<name lang="und">Introducción</name>
+			<description lang="und">Introducción</description>
+		</activity>
+		<activity id="http://6AKu2Fek6Wx_course_id/5aNGUnotmDM" type="http://adlnet.gov/expapi/activities/module">
+			<name lang="und">Mercadeo estratégico</name>
+			<description lang="und">Mercadeo estratégico</description>
+		</activity>
+		<activity id="http://6AKu2Fek6Wx_course_id/6pVpiMlgmDQ" type="http://adlnet.gov/expapi/activities/module">
+			<name lang="und">Elementos importantes para abordar el mercadeo</name>
+			<description lang="und">Elementos importantes para abordar el mercadeo</description>
+		</activity>
+		<activity id="http://6AKu2Fek6Wx_course_id/6l1zcdboUTI" type="http://adlnet.gov/expapi/activities/module">
+			<name lang="und">Mercadeo operativo</name>
+			<description lang="und">Mercadeo operativo</description>
+		</activity>
+		<activity id="http://6AKu2Fek6Wx_course_id/6nyRSOGQ2bc" type="http://adlnet.gov/expapi/activities/module">
+			<name lang="und">El Branding</name>
+			<description lang="und">El Branding</description>
+		</activity>
+		<activity id="http://6AKu2Fek6Wx_course_id/6cFZOmdenEw" type="http://adlnet.gov/expapi/activities/module">
+			<name lang="und">Elementos del brabding</name>
+			<description lang="und">Elementos del brabding</description>
+		</activity>
+		<activity id="http://6AKu2Fek6Wx_course_id/5wOKk9mmXfF" type="http://adlnet.gov/expapi/activities/module">
+			<name lang="und">Actividad</name>
+			<description lang="und">Actividad</description>
+		</activity>
+		<activity id="http://6AKu2Fek6Wx_course_id/68xWN00bojH" type="http://adlnet.gov/expapi/activities/module">
+			<name lang="und">Selecciona los cinco pasos del santo grial de la especificación son:</name>
+			<description lang="und">Selecciona los cinco pasos del santo grial de la especificación son:</description>
+		</activity>
+		<activity id="http://6AKu2Fek6Wx_course_id/68xWN00bojH/6l08kgsZz2b" type="http://adlnet.gov/expapi/activities/cmi.interaction">
+			<name lang="und">Selecciona los cinco pasos del santo grial de la especificación son:</name>
+			<description lang="und">Selecciona los cinco pasos del santo grial de la especificación son:</description>
+			<interactionType>choice</interactionType>
+			<correctResponsePatterns>
+				<correctResponsePattern>choice_5hirgG1FPCH</correctResponsePattern>
+				<correctResponsePattern>choice_5Y8FsVMowZr</correctResponsePattern>
+				<correctResponsePattern>choice_6niiIzTE7ej</correctResponsePattern>
+				<correctResponsePattern>choice_5nVkO0MBsFB</correctResponsePattern>
+				<correctResponsePattern>choice_5yDDiNWqIv7</correctResponsePattern>
+			</correctResponsePatterns>
+			<choices>
+				<component>
+					<id>choice_5hirgG1FPCH</id>
+					<description lang="und">Comprobar las hipótesis de mercado detectadas en los estudios.</description>
+				</component>
+				<component>
+					<id>choice_5Y8FsVMowZr</id>
+					<description lang="und">Calcular el TOTAL ADDRESSABLE MARKET</description>
+				</component>
+				<component>
+					<id>choice_6niiIzTE7ej</id>
+					<description lang="und">Definir y afinar al Buyer persona </description>
+				</component>
+				<component>
+					<id>choice_5nVkO0MBsFB</id>
+					<description lang="und">Elegir el segmento de inicio o “líder”.</description>
+				</component>
+				<component>
+					<id>choice_5yDDiNWqIv7</id>
+					<description lang="und">Análisis de un número finito de segmentos.</description>
+				</component>
+				<component>
+					<id>choice_6LzubODSXTu</id>
+					<description lang="und">Establecer los canales de comunicación.</description>
+				</component>
+				<component>
+					<id>choice_5ZVsyIOfOBT</id>
+					<description lang="und">Definir los hábitos de consumo.</description>
+				</component>
+			</choices>
+		</activity>
+		<activity id="http://6AKu2Fek6Wx_course_id/6ASnYIlRiet" type="http://adlnet.gov/expapi/activities/module">
+			<name lang="und">Los elementos del branding son:</name>
+			<description lang="und">Los elementos del branding son:</description>
+		</activity>
+		<activity id="http://6AKu2Fek6Wx_course_id/6ASnYIlRiet/5qiabzwFEaF" type="http://adlnet.gov/expapi/activities/cmi.interaction">
+			<name lang="und">Los elementos del branding son:</name>
+			<description lang="und">Los elementos del branding son:</description>
+			<interactionType>choice</interactionType>
+			<correctResponsePatterns>
+				<correctResponsePattern>choice_6N7oHOvPuHK</correctResponsePattern>
+				<correctResponsePattern>choice_5lbza6xvxny</correctResponsePattern>
+				<correctResponsePattern>choice_6i0Gn60AmxB</correctResponsePattern>
+				<correctResponsePattern>choice_5ersmGnuNHg</correctResponsePattern>
+				<correctResponsePattern>choice_5pyHEj77JnJ</correctResponsePattern>
+				<correctResponsePattern>choice_6MNrBpOtfwU</correctResponsePattern>
+			</correctResponsePatterns>
+			<choices>
+				<component>
+					<id>choice_6N7oHOvPuHK</id>
+					<description lang="und">Personalidad.</description>
+				</component>
+				<component>
+					<id>choice_5lbza6xvxny</id>
+					<description lang="und">Tono.</description>
+				</component>
+				<component>
+					<id>choice_6i0Gn60AmxB</id>
+					<description lang="und">Meaning.</description>
+				</component>
+				<component>
+					<id>choice_5ersmGnuNHg</id>
+					<description lang="und">Naming.</description>
+				</component>
+				<component>
+					<id>choice_5pyHEj77JnJ</id>
+					<description lang="und">Marca.</description>
+				</component>
+				<component>
+					<id>choice_6MNrBpOtfwU</id>
+					<description lang="und">Visual.</description>
+				</component>
+				<component>
+					<id>choice_6EFE4iZDSB3</id>
+					<description lang="und">Tam.</description>
+				</component>
+				<component>
+					<id>choice_5XSFN3RIliy</id>
+					<description lang="und">Propósito.</description>
+				</component>
+			</choices>
+		</activity>
+		<activity id="http://6AKu2Fek6Wx_course_id/60zJDPHnr7L" type="http://adlnet.gov/expapi/activities/module">
+			<name lang="und">Resumen</name>
+			<description lang="und">Resumen</description>
+		</activity>
+		<activity id="http://6AKu2Fek6Wx_course_id/5dvEkiiEiIA" type="http://adlnet.gov/expapi/activities/module">
+			<name lang="und">Referencias</name>
+			<description lang="und">Referencias</description>
+		</activity>
+		<activity id="http://6AKu2Fek6Wx_course_id/6ji5FAJj03m" type="http://adlnet.gov/expapi/activities/module">
+			<name lang="und">Cierre</name>
+			<description lang="und">Cierre</description>
+		</activity>
+	</activities>
+</tincan>
