@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="utf-8"?>
-<bwFrame xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" default_layout="pxabnsnfns10111010101" textdirection="ltr" device="false" fontscale="100" kbshortcuts="false" skip_nav_enabled="true" chromeless="false" outputtype="undefined" theme="classic">
+<bwFrame xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" default_layout="npxnabnsnfns10111010101" textdirection="ltr" device="false" fontscale="100" kbshortcuts="false" skip_nav_enabled="true" chromeless="false" outputtype="undefined" theme="classic">
   <layouts>
-    <layout name="npnxnanbsnfns10111010101" font="Raleway" controllayout="npnxnanbsnfns10111010101" colorscheme="pxabnsnfns10111010101" string_table="pxabnsnfns10111010101" />
-    <layout name="pxabnsnfns10111010101" font="Raleway" controllayout="pxabnsnfns10111010101" colorscheme="pxabnsnfns10111010101" string_table="pxabnsnfns10111010101" />
-    <layout name="npxnabnsnfns10111010101" font="Raleway" controllayout="npxnabnsnfns10111010101" colorscheme="pxabnsnfns10111010101" string_table="pxabnsnfns10111010101" />
-    <layout name="npnxnanbnsnfns10111010101" font="Raleway" controllayout="npnxnanbnsnfns10111010101" colorscheme="pxabnsnfns10111010101" string_table="pxabnsnfns10111010101" />
-    <layout name="pxabnsnfns10111010100" font="Raleway" controllayout="pxabnsnfns10111010100" colorscheme="pxabnsnfns10111010101" string_table="pxabnsnfns10111010101" />
-    <layout name="pnxanbnsnfns10111010101" font="Raleway" controllayout="pnxanbnsnfns10111010101" colorscheme="pxabnsnfns10111010101" string_table="pxabnsnfns10111010101" />
+    <layout name="npnxnanbsnfns10111010101" font="Raleway" controllayout="npnxnanbsnfns10111010101" colorscheme="npxnabnsnfns10111010101" string_table="npxnabnsnfns10111010101" />
+    <layout name="pxabnsnfns10111010101" font="Raleway" controllayout="pxabnsnfns10111010101" colorscheme="npxnabnsnfns10111010101" string_table="npxnabnsnfns10111010101" />
+    <layout name="npxnabnsnfns10111010101" font="Raleway" controllayout="npxnabnsnfns10111010101" colorscheme="npxnabnsnfns10111010101" string_table="npxnabnsnfns10111010101" />
+    <layout name="npnxnanbnsnfns10111010101" font="Raleway" controllayout="npnxnanbnsnfns10111010101" colorscheme="npxnabnsnfns10111010101" string_table="npxnabnsnfns10111010101" />
+    <layout name="pxabnsnfns10111010100" font="Raleway" controllayout="pxabnsnfns10111010100" colorscheme="npxnabnsnfns10111010101" string_table="npxnabnsnfns10111010101" />
+    <layout name="pnxanbnsnfns10111010101" font="Raleway" controllayout="pnxanbnsnfns10111010101" colorscheme="npxnabnsnfns10111010101" string_table="npxnabnsnfns10111010101" />
   </layouts>
   <control_options>
     <optiongroups>
@@ -230,7 +230,7 @@
     </control_layout>
   </control_layouts>
   <colorschemes>
-    <colorscheme name="pxabnsnfns10111010101">
+    <colorscheme name="npxnabnsnfns10111010101">
       <color_group name="accessibility">
         <group_colors>
           <color name="focus_rect">
@@ -1147,7 +1147,7 @@
     </colorscheme>
   </colorschemes>
   <string_tables>
-    <string_table name="pxabnsnfns10111010101">
+    <string_table name="npxnabnsnfns10111010101">
       <string id="more_info">Más información</string>
       <string id="bio">Biografía</string>
       <string id="togglezoom">Alternar los modos de zoom</string>
@@ -1224,7 +1224,6 @@
       <links>
         <slidelink slideid="_player.6ng2xZVodgV.6djwH4qrKyI" displaytext="Bienvenida" expand="false" type="slide">
           <links>
-            <slidelink slideid="_player.6ng2xZVodgV.5aNGUnotmDM" displaytext="Botones de navegación" expand="false" type="slide" />
             <slidelink slideid="_player.6ng2xZVodgV.6FGWoAXn2Kg" displaytext="Objetivo" expand="false" type="slide" />
             <slidelink slideid="_player.6ng2xZVodgV.5nw4EeG9Y5G" displaytext="Introducción" expand="false" type="slide" />
           </links>
