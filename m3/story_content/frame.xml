@@ -1222,7 +1222,7 @@
   <nav_data>
     <outline>
       <links>
-        <slidelink slideid="_player.6ng2xZVodgV.6djwH4qrKyI" displaytext="Bienvenida" expand="true" type="slide">
+        <slidelink slideid="_player.6ng2xZVodgV.6djwH4qrKyI" displaytext="Bienvenida" expand="false" type="slide">
           <links>
             <slidelink slideid="_player.6ng2xZVodgV.6FGWoAXn2Kg" displaytext="Objetivo" expand="false" type="slide" />
             <slidelink slideid="_player.6ng2xZVodgV.5nw4EeG9Y5G" displaytext="Introducción" expand="false" type="slide" />
@@ -1230,7 +1230,7 @@
         </slidelink>
         <slidelink slideid="_player.6XyF8uypmKg.61LQut8Y1lN" displaytext="Proceso de ideación" expand="false" type="slide">
           <links>
-            <slidelink slideid="_player.6XyF8uypmKg.6qeGH6dzBwA" displaytext="Modelo Stage-Gate" expand="true" type="slide" />
+            <slidelink slideid="_player.6XyF8uypmKg.6qeGH6dzBwA" displaytext="Modelo Stage-Gate" expand="false" type="slide" />
             <slidelink slideid="_player.6XyF8uypmKg.5u3qxJAIPJz" displaytext="Siete pasos para generar ideas de negocio" expand="false" type="slide" />
             <slidelink slideid="_player.6XyF8uypmKg.6pcMYPE9P2O" displaytext="Ocho preguntas claves que debes hacerte como emprendedor" expand="false" type="slide" />
           </links>
@@ -1241,7 +1241,7 @@
             <slidelink slideid="_player.6XyF8uypmKg.6FnfTGy8DXR" displaytext="Beneficios de la metodología Design Thinking" expand="false" type="slide" />
           </links>
         </slidelink>
-        <slidelink slideid="_player.6LTsMllXQf5.5wOKk9mmXfF" displaytext="Actividades" expand="true" type="slide">
+        <slidelink slideid="_player.6LTsMllXQf5.5wOKk9mmXfF" displaytext="Actividades" expand="false" type="slide">
           <links>
             <slidelink slideid="_player.6LTsMllXQf5.5iiUlGmQYBI" displaytext="Actividad 1" expand="false" type="slide" />
             <slidelink slideid="_player.6LTsMllXQf5.5mZkYnIV0ST" displaytext="Actividad 2" expand="false" type="slide" />
