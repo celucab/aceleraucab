@@ -1,0 +1,181 @@
+<?xml version="1.0" encoding="utf-8"?>
+<tincan xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://projecttincan.com/tincan.xsd">
+	<activities>
+		<activity id="http://5haA5DfwSxH_course_id" type="http://adlnet.gov/expapi/activities/course">
+			<name lang="und">Merchandising</name>
+			<description lang="und" />
+			<launch lang="und">index_lms.html</launch>
+		</activity>
+		<activity id="http://5haA5DfwSxH_course_id/6BWLk7ha1h6" type="http://adlnet.gov/expapi/activities/module">
+			<name lang="und">Bienvenida</name>
+			<description lang="und">Bienvenida</description>
+		</activity>
+		<activity id="http://5haA5DfwSxH_course_id/6JbS16lqxAi" type="http://adlnet.gov/expapi/activities/module">
+			<name lang="und">Objetivo</name>
+			<description lang="und">Objetivo</description>
+		</activity>
+		<activity id="http://5haA5DfwSxH_course_id/6JsSC9nb7hX" type="http://adlnet.gov/expapi/activities/module">
+			<name lang="und">Introducción</name>
+			<description lang="und">Introducción</description>
+		</activity>
+		<activity id="http://5haA5DfwSxH_course_id/6m6dKKSmEVf" type="http://adlnet.gov/expapi/activities/module">
+			<name lang="und">Actividad</name>
+			<description lang="und">Actividad</description>
+		</activity>
+		<activity id="http://5haA5DfwSxH_course_id/6IoZDDTRlYr" type="http://adlnet.gov/expapi/activities/module">
+			<name lang="und">Pregunta 1</name>
+			<description lang="und">Pregunta 1</description>
+		</activity>
+		<activity id="http://5haA5DfwSxH_course_id/6IoZDDTRlYr/6CDz8eNyRRR" type="http://adlnet.gov/expapi/activities/cmi.interaction">
+			<name lang="und">Los elementos que influyen en el merchandising son:</name>
+			<description lang="und">Los elementos que influyen en el merchandising son:</description>
+			<interactionType>choice</interactionType>
+			<correctResponsePatterns>
+				<correctResponsePattern>choice_6VEVrIM49tE</correctResponsePattern>
+			</correctResponsePatterns>
+			<choices>
+				<component>
+					<id>choice_6VEVrIM49tE</id>
+					<description lang="und">Todas las anteriores.</description>
+				</component>
+				<component>
+					<id>choice_6agFSVOWnC0</id>
+					<description lang="und">Ninguna de las anteriores.</description>
+				</component>
+				<component>
+					<id>choice_6MKMtjX2zcN</id>
+					<description lang="und">Atención al cliente.</description>
+				</component>
+				<component>
+					<id>choice_6bqzpNoPMnQ</id>
+					<description lang="und">Ubicación de los productos.</description>
+				</component>
+				<component>
+					<id>choice_6Wtup5eOB7m</id>
+					<description lang="und">Decoración del punto de venta.</description>
+				</component>
+				<component>
+					<id>choice_5XtBJ3DmPsd</id>
+					<description lang="und">Estética del producto y la colocación </description>
+				</component>
+			</choices>
+		</activity>
+		<activity id="http://5haA5DfwSxH_course_id/6SAq6Wz8p6Y" type="http://adlnet.gov/expapi/activities/module">
+			<name lang="und">Pregunta 2</name>
+			<description lang="und">Pregunta 2</description>
+		</activity>
+		<activity id="http://5haA5DfwSxH_course_id/6SAq6Wz8p6Y/61aUUDdhtYN" type="http://adlnet.gov/expapi/activities/cmi.interaction">
+			<name lang="und">Los elementos que influyen en el merchandising son:</name>
+			<description lang="und">Los elementos que influyen en el merchandising son:</description>
+			<interactionType>choice</interactionType>
+			<correctResponsePatterns>
+				<correctResponsePattern>choice_5a3rTqfw1wX</correctResponsePattern>
+				<correctResponsePattern>choice_6i0HIJiks2L</correctResponsePattern>
+				<correctResponsePattern>choice_5XAE9JzTEOV</correctResponsePattern>
+				<correctResponsePattern>choice_6WaKZynCq36</correctResponsePattern>
+				<correctResponsePattern>choice_6CuxunzztJq</correctResponsePattern>
+				<correctResponsePattern>choice_6IzJ6GrERz3</correctResponsePattern>
+			</correctResponsePatterns>
+			<choices>
+				<component>
+					<id>choice_5a3rTqfw1wX</id>
+					<description lang="und">Infraestructura.</description>
+				</component>
+				<component>
+					<id>choice_6i0HIJiks2L</id>
+					<description lang="und">Equipo Industrial.</description>
+				</component>
+				<component>
+					<id>choice_5XAE9JzTEOV</id>
+					<description lang="und">Productos de uso final.</description>
+				</component>
+				<component>
+					<id>choice_6WaKZynCq36</id>
+					<description lang="und">Servicios.</description>
+				</component>
+				<component>
+					<id>choice_6CuxunzztJq</id>
+					<description lang="und">Componentes y suministros.</description>
+				</component>
+				<component>
+					<id>choice_6IzJ6GrERz3</id>
+					<description lang="und">Materia Prima.</description>
+				</component>
+				<component>
+					<id>choice_6hp5YoYr34I</id>
+					<description lang="und">Branding</description>
+				</component>
+				<component>
+					<id>choice_5afGsFKjdOS</id>
+					<description lang="und">Todas las anteriores.</description>
+				</component>
+			</choices>
+		</activity>
+		<activity id="http://5haA5DfwSxH_course_id/5jaqNoKb9hJ" type="http://adlnet.gov/expapi/activities/module">
+			<name lang="und">Pregunta 3</name>
+			<description lang="und">Pregunta 3</description>
+		</activity>
+		<activity id="http://5haA5DfwSxH_course_id/5jaqNoKb9hJ/61vDshyYibK" type="http://adlnet.gov/expapi/activities/cmi.interaction">
+			<name lang="und">Arrastrar y soltar</name>
+			<description lang="und">Arrastrar y soltar</description>
+			<interactionType>matching</interactionType>
+			<correctResponsePatterns>
+				<correctResponsePattern>statement_5m3f01KMrxv[.]choice_6aEmaYlHkKw</correctResponsePattern>
+				<correctResponsePattern>statement_5bQXcDgJiJi[.]choice_6lPKwmEFKDt</correctResponsePattern>
+				<correctResponsePattern>statement_6YvS7my9shG[.]choice_5aZxtjTpTHz</correctResponsePattern>
+			</correctResponsePatterns>
+			<source>
+				<component>
+					<id>statement_5m3f01KMrxv</id>
+					<description lang="und">Rectángulo 6</description>
+				</component>
+				<component>
+					<id>statement_5bQXcDgJiJi</id>
+					<description lang="und">Rectángulo 4</description>
+				</component>
+				<component>
+					<id>statement_6YvS7my9shG</id>
+					<description lang="und">Rectángulo 5</description>
+				</component>
+			</source>
+			<target>
+				<component>
+					<id>choice_6aEmaYlHkKw</id>
+					<description lang="und">Rectángulo 7 - Merchandising promocional</description>
+				</component>
+				<component>
+					<id>choice_6lPKwmEFKDt</id>
+					<description lang="und">Rectángulo 8 - Visual merchandising</description>
+				</component>
+				<component>
+					<id>choice_5aZxtjTpTHz</id>
+					<description lang="und">Rectángulo 9 - Digital Merchandising</description>
+				</component>
+			</target>
+		</activity>
+		<activity id="http://5haA5DfwSxH_course_id/6UPBftypDr5" type="http://adlnet.gov/expapi/activities/module">
+			<name lang="und">Merchandising y cadena de valor</name>
+			<description lang="und">Merchandising y cadena de valor</description>
+		</activity>
+		<activity id="http://5haA5DfwSxH_course_id/66HkDHAEWb8" type="http://adlnet.gov/expapi/activities/module">
+			<name lang="und">Construcción de marcas </name>
+			<description lang="und">Construcción de marcas </description>
+		</activity>
+		<activity id="http://5haA5DfwSxH_course_id/6qTQe9rpAEA" type="http://adlnet.gov/expapi/activities/module">
+			<name lang="und">Resumen</name>
+			<description lang="und">Resumen</description>
+		</activity>
+		<activity id="http://5haA5DfwSxH_course_id/5luBicPOSNR" type="http://adlnet.gov/expapi/activities/module">
+			<name lang="und">Referencias</name>
+			<description lang="und">Referencias</description>
+		</activity>
+		<activity id="http://5haA5DfwSxH_course_id/5gvDTlPz6Ln" type="http://adlnet.gov/expapi/activities/module">
+			<name lang="und">Cierre</name>
+			<description lang="und">Cierre</description>
+		</activity>
+		<activity id="http://5haA5DfwSxH_course_id/6nrBsPhmHja" type="http://adlnet.gov/expapi/activities/module">
+			<name lang="und">Categorización de productos o servicios</name>
+			<description lang="und">Categorización de productos o servicios</description>
+		</activity>
+	</activities>
+</tincan>
