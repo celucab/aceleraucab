@@ -10,10 +10,6 @@
 			<name lang="und">Bienvenida</name>
 			<description lang="und">Bienvenida</description>
 		</activity>
-		<activity id="http://6AKu2Fek6Wx_course_id/6pyCpISXdFY" type="http://adlnet.gov/expapi/activities/module">
-			<name lang="und">Botones de navegación </name>
-			<description lang="und">Botones de navegación </description>
-		</activity>
 		<activity id="http://6AKu2Fek6Wx_course_id/6FGWoAXn2Kg" type="http://adlnet.gov/expapi/activities/module">
 			<name lang="und">Objetivo</name>
 			<description lang="und">Objetivo</description>

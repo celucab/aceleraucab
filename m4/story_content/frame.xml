@@ -1223,23 +1223,22 @@
   <nav_data>
     <outline>
       <links>
-        <slidelink slideid="_player.6ng2xZVodgV.6djwH4qrKyI" displaytext="Bienvenida" expand="true" type="slide">
+        <slidelink slideid="_player.6ng2xZVodgV.6djwH4qrKyI" displaytext="Bienvenida" expand="false" type="slide">
           <links>
-            <slidelink slideid="_player.6ng2xZVodgV.6pyCpISXdFY" displaytext="Botones de navegación " expand="false" type="slide" />
             <slidelink slideid="_player.6ng2xZVodgV.6FGWoAXn2Kg" displaytext="Objetivo" expand="false" type="slide" />
             <slidelink slideid="_player.6ng2xZVodgV.5kTYA6ulbiM" displaytext="Introducción" expand="false" type="slide" />
           </links>
         </slidelink>
         <slidelink slideid="_player.6XyF8uypmKg" displaytext="El mercadeo" expand="true" type="slide">
           <links>
-            <slidelink slideid="_player.6XyF8uypmKg.5aNGUnotmDM" displaytext="Mercadeo estratégico" expand="true" type="slide">
+            <slidelink slideid="_player.6XyF8uypmKg.5aNGUnotmDM" displaytext="Mercadeo estratégico" expand="false" type="slide">
               <links>
                 <slidelink slideid="_player.6XyF8uypmKg.6pVpiMlgmDQ" displaytext="Elementos importantes para abordar el mercadeo" expand="false" type="slide" />
               </links>
             </slidelink>
-            <slidelink slideid="_player.6XyF8uypmKg.6l1zcdboUTI" displaytext="Mercadeo operativo" expand="true" type="slide">
+            <slidelink slideid="_player.6XyF8uypmKg.6l1zcdboUTI" displaytext="Mercadeo operativo" expand="false" type="slide">
               <links>
-                <slidelink slideid="_player.6XyF8uypmKg.6nyRSOGQ2bc" displaytext="El Branding" expand="true" type="slide">
+                <slidelink slideid="_player.6XyF8uypmKg.6nyRSOGQ2bc" displaytext="El Branding" expand="false" type="slide">
                   <links>
                     <slidelink slideid="_player.6XyF8uypmKg.6cFZOmdenEw" displaytext="Elementos del brabding" expand="false" type="slide" />
                   </links>

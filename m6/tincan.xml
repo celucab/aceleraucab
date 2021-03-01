@@ -1,0 +1,166 @@
+<?xml version="1.0" encoding="utf-8"?>
+<tincan xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://projecttincan.com/tincan.xsd">
+	<activities>
+		<activity id="http://6hGuLZIqjAj_course_id" type="http://adlnet.gov/expapi/activities/course">
+			<name lang="und">Calculando el negocio</name>
+			<description lang="und" />
+			<launch lang="und">index_lms.html</launch>
+		</activity>
+		<activity id="http://6hGuLZIqjAj_course_id/6djwH4qrKyI" type="http://adlnet.gov/expapi/activities/module">
+			<name lang="und">Bienvenida</name>
+			<description lang="und">Bienvenida</description>
+		</activity>
+		<activity id="http://6hGuLZIqjAj_course_id/6FGWoAXn2Kg" type="http://adlnet.gov/expapi/activities/module">
+			<name lang="und">Objetivo</name>
+			<description lang="und">Objetivo</description>
+		</activity>
+		<activity id="http://6hGuLZIqjAj_course_id/5kTYA6ulbiM" type="http://adlnet.gov/expapi/activities/module">
+			<name lang="und">Introducción</name>
+			<description lang="und">Introducción</description>
+		</activity>
+		<activity id="http://6hGuLZIqjAj_course_id/5aNGUnotmDM" type="http://adlnet.gov/expapi/activities/module">
+			<name lang="und">Introducción y conceptos claves </name>
+			<description lang="und">Introducción y conceptos claves </description>
+		</activity>
+		<activity id="http://6hGuLZIqjAj_course_id/5wOKk9mmXfF" type="http://adlnet.gov/expapi/activities/module">
+			<name lang="und">Actividad</name>
+			<description lang="und">Actividad</description>
+		</activity>
+		<activity id="http://6hGuLZIqjAj_course_id/68xWN00bojH" type="http://adlnet.gov/expapi/activities/module">
+			<name lang="und">Pregunta 1</name>
+			<description lang="und">Pregunta 1</description>
+		</activity>
+		<activity id="http://6hGuLZIqjAj_course_id/68xWN00bojH/6l08kgsZz2b" type="http://adlnet.gov/expapi/activities/cmi.interaction">
+			<name lang="und">Las áreas de la economía que estudian la obtención de recursos financieros (representados en el dinero) y la gestión de los mismos para satisfacer los requerimientos de sus aportantes y demandantes.</name>
+			<description lang="und">Las áreas de la economía que estudian la obtención de recursos financieros (representados en el dinero) y la gestión de los mismos para satisfacer los requerimientos de sus aportantes y demandantes.</description>
+			<interactionType>choice</interactionType>
+			<correctResponsePatterns>
+				<correctResponsePattern>choice_5nVkO0MBsFB</correctResponsePattern>
+			</correctResponsePatterns>
+			<choices>
+				<component>
+					<id>choice_5nVkO0MBsFB</id>
+					<description lang="und">Finanzas.</description>
+				</component>
+				<component>
+					<id>choice_5ZVsyIOfOBT</id>
+					<description lang="und">Inversiones.</description>
+				</component>
+				<component>
+					<id>choice_6niiIzTE7ej</id>
+					<description lang="und">Financiamiento.</description>
+				</component>
+				<component>
+					<id>choice_5yDDiNWqIv7</id>
+					<description lang="und">Ley de oferta y demanda.</description>
+				</component>
+			</choices>
+		</activity>
+		<activity id="http://6hGuLZIqjAj_course_id/6ASnYIlRiet" type="http://adlnet.gov/expapi/activities/module">
+			<name lang="und">Pregunta 2</name>
+			<description lang="und">Pregunta 2</description>
+		</activity>
+		<activity id="http://6hGuLZIqjAj_course_id/6ASnYIlRiet/5qiabzwFEaF" type="http://adlnet.gov/expapi/activities/cmi.interaction">
+			<name lang="und">En una proyección financiera se deben toman en cuenta:</name>
+			<description lang="und">En una proyección financiera se deben toman en cuenta:</description>
+			<interactionType>choice</interactionType>
+			<correctResponsePatterns>
+				<correctResponsePattern>choice_5XSFN3RIliy</correctResponsePattern>
+				<correctResponsePattern>choice_5pyHEj77JnJ</correctResponsePattern>
+				<correctResponsePattern>choice_6MNrBpOtfwU</correctResponsePattern>
+			</correctResponsePatterns>
+			<choices>
+				<component>
+					<id>choice_5XSFN3RIliy</id>
+					<description lang="und">Presupuesto y flujo de caja.</description>
+				</component>
+				<component>
+					<id>choice_5pyHEj77JnJ</id>
+					<description lang="und">Calculo de precio.</description>
+				</component>
+				<component>
+					<id>choice_6MNrBpOtfwU</id>
+					<description lang="und">Estructuras de desembolso.</description>
+				</component>
+				<component>
+					<id>choice_6i0Gn60AmxB</id>
+					<description lang="und">Ninguna de las anteriores.</description>
+				</component>
+				<component>
+					<id>choice_5ersmGnuNHg</id>
+					<description lang="und">Oferta y Demanda.</description>
+				</component>
+			</choices>
+		</activity>
+		<activity id="http://6hGuLZIqjAj_course_id/67wKbEZme87" type="http://adlnet.gov/expapi/activities/module">
+			<name lang="und">Pregunta 3</name>
+			<description lang="und">Pregunta 3</description>
+		</activity>
+		<activity id="http://6hGuLZIqjAj_course_id/67wKbEZme87/6cXRlDATYIX" type="http://adlnet.gov/expapi/activities/cmi.interaction">
+			<name lang="und">Arrastrar y soltar</name>
+			<description lang="und">Arrastrar y soltar</description>
+			<interactionType>matching</interactionType>
+			<correctResponsePatterns>
+				<correctResponsePattern>statement_6CAzwy2eLA5[.]choice_5UxtG8i2UYz</correctResponsePattern>
+				<correctResponsePattern>statement_6TjGg828v8s[.]choice_6n775lehK7D</correctResponsePattern>
+				<correctResponsePattern>statement_6rpUe7YgKrP[.]choice_6P1KtLlMonY</correctResponsePattern>
+			</correctResponsePatterns>
+			<source>
+				<component>
+					<id>statement_6CAzwy2eLA5</id>
+					<description lang="und">Rectángulo 4</description>
+				</component>
+				<component>
+					<id>statement_6TjGg828v8s</id>
+					<description lang="und">Rectángulo 5</description>
+				</component>
+				<component>
+					<id>statement_6rpUe7YgKrP</id>
+					<description lang="und">Rectángulo 6</description>
+				</component>
+			</source>
+			<target>
+				<component>
+					<id>choice_5UxtG8i2UYz</id>
+					<description lang="und">Rectángulo 8 - Inversionistas ángeles</description>
+				</component>
+				<component>
+					<id>choice_6n775lehK7D</id>
+					<description lang="und">Rectángulo 7 - Instituciones financistas de capital de riesgo</description>
+				</component>
+				<component>
+					<id>choice_6P1KtLlMonY</id>
+					<description lang="und">Rectángulo 9 - Para el caso de emprendimientos de subsistencia.</description>
+				</component>
+			</target>
+		</activity>
+		<activity id="http://6hGuLZIqjAj_course_id/60zJDPHnr7L" type="http://adlnet.gov/expapi/activities/module">
+			<name lang="und">Resumen</name>
+			<description lang="und">Resumen</description>
+		</activity>
+		<activity id="http://6hGuLZIqjAj_course_id/5dvEkiiEiIA" type="http://adlnet.gov/expapi/activities/module">
+			<name lang="und">Referencias</name>
+			<description lang="und">Referencias</description>
+		</activity>
+		<activity id="http://6hGuLZIqjAj_course_id/6ji5FAJj03m" type="http://adlnet.gov/expapi/activities/module">
+			<name lang="und">Cierre</name>
+			<description lang="und">Cierre</description>
+		</activity>
+		<activity id="http://6hGuLZIqjAj_course_id/5xf9XqknTlm" type="http://adlnet.gov/expapi/activities/module">
+			<name lang="und">Análisis y decisiones financieras</name>
+			<description lang="und">Análisis y decisiones financieras</description>
+		</activity>
+		<activity id="http://6hGuLZIqjAj_course_id/5ldA1qqL52j" type="http://adlnet.gov/expapi/activities/module">
+			<name lang="und">Proyeccciones financieras</name>
+			<description lang="und">Proyeccciones financieras</description>
+		</activity>
+		<activity id="http://6hGuLZIqjAj_course_id/6oUOyqIcTBg" type="http://adlnet.gov/expapi/activities/module">
+			<name lang="und">Inversión y financiamiento</name>
+			<description lang="und">Inversión y financiamiento</description>
+		</activity>
+		<activity id="http://6hGuLZIqjAj_course_id/6YSSWBb2Slt" type="http://adlnet.gov/expapi/activities/module">
+			<name lang="und">Inversión en nuevos negocios </name>
+			<description lang="und">Inversión en nuevos negocios </description>
+		</activity>
+	</activities>
+</tincan>
